@@ -82,6 +82,7 @@ hr {
   margin: auto;
 }
 
+/* Styling for links */
 a:link { color: blue; }
 a:visited { color: purple; }
 a:hover { color: green; }
