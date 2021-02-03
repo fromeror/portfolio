@@ -1,0 +1,91 @@
+/* Set ALL HTML elements with border-box sizing */
+* { 
+  box-sizing: border-box; 
+}
+
+/* Styling for direct elements */
+header {
+  background-color: #565264;
+  padding: 10px 25px;
+}
+
+footer {
+  background-color: #565264;
+  padding: 2px;
+  font-size: 20px
+}
+
+main {
+  background-color: #e8e8eb;
+  padding: 15px
+}
+
+p, a, ul, ol {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+img {
+  margin: 5px 300px -12px;
+  border-radius: 10%;
+  width: 350px;
+}
+
+hr {
+  width: 905px; 
+  background-color: white;
+  border: 2px solid black;
+  margin-bottom: 200px; 
+}
+
+
+/* Styling for created classes */
+.h-and-f-style {
+  text-align: center;
+  color: white;
+  font-family:  Geneva, Verdana, sans-serif;
+}
+
+.img-caption{
+  padding: 0px 355px 50px;
+}
+
+.right-text{
+  margin: -485px 800px 600px;
+  width: 300px;
+}
+
+.top-line{
+  margin-top: -400px;
+}
+
+.bottom-line{
+  margin-top: 88px;
+}
+
+.content-heading{
+  text-align: center;
+  padding: 0px 355px 50px;
+  margin-top: -130px
+}
+
+.width {
+  width: 600px;
+  margin: auto;
+}
+
+.top-margins {
+  margin: auto;
+}
+
+.bottom-margins {
+  margin: auto;
+}
+
+a:link { color: blue; }
+a:visited { color: purple; }
+a:hover { color: green; }
+a:active { color: darkgrey; }
+
+
+
