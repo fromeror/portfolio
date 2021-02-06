@@ -36,6 +36,7 @@ hr {
   background-color: white;
   border: 2px solid black;
   margin-bottom: 200px; 
+  height: 4px;
 }
 
 
@@ -47,7 +48,7 @@ hr {
 }
 
 .img-caption{
-  padding: 0px 355px 50px;
+  padding: 0px 380px 50px;
 }
 
 .right-text{
@@ -82,11 +83,9 @@ hr {
   margin: auto;
 }
 
-/* Styling for links */
+/* Styling fo the links */
 a:link { color: blue; }
 a:visited { color: purple; }
 a:hover { color: green; }
 a:active { color: darkgrey; }
-
-
 
